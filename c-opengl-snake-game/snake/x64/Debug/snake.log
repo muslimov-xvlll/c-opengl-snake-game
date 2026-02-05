@@ -1,0 +1,25 @@
+﻿  Snake.cpp
+C:\Users\ACER\Desktop\Cursach\snake\snake\Snake.cpp(61,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\ACER\Desktop\Cursach\snake\snake\Snake.cpp(150,30): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\ACER\Desktop\Cursach\snake\snake\Snake.cpp(150,24): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\ACER\Desktop\Cursach\snake\snake\Snake.cpp(150,18): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\ACER\Desktop\Cursach\snake\snake\Snake.cpp(169,29): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\ACER\Desktop\Cursach\snake\snake\Snake.cpp(169,23): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\ACER\Desktop\Cursach\snake\snake\Snake.cpp(169,18): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\ACER\Desktop\Cursach\snake\snake\Snake.cpp(170,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ACER\Desktop\Cursach\snake\snake\Snake.cpp(170,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ACER\Desktop\Cursach\snake\snake\Snake.cpp(170,15): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ACER\Desktop\Cursach\snake\snake\Snake.cpp(227,35): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ACER\Desktop\Cursach\snake\snake\Snake.cpp(227,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ACER\Desktop\Cursach\snake\snake\Snake.cpp(227,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ACER\Desktop\Cursach\snake\snake\Snake.cpp(236,42): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\ACER\Desktop\Cursach\snake\snake\Snake.cpp(236,36): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\ACER\Desktop\Cursach\snake\snake\Snake.cpp(236,30): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\ACER\Desktop\Cursach\snake\snake\Snake.cpp(250,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ACER\Desktop\Cursach\snake\snake\Snake.cpp(250,54): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\ACER\Desktop\Cursach\snake\snake\Snake.cpp(251,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ACER\Desktop\Cursach\snake\snake\Snake.cpp(251,58): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\ACER\Desktop\Cursach\snake\snake\Snake.cpp(329,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ACER\Desktop\Cursach\snake\snake\Snake.cpp(336,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ACER\Desktop\Cursach\snake\snake\Snake.cpp(343,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  snake.vcxproj -> C:\Users\ACER\Desktop\Cursach\snake\x64\Debug\snake.exe
